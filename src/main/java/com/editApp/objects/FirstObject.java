@@ -5,6 +5,7 @@ public class FirstObject {
     private String name;
     private int id;
     // друшие поля по Джэйсону
+    // some for new branch
 
     public FirstObject() {
     }
